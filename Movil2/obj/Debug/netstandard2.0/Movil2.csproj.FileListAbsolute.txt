@@ -1,0 +1,17 @@
+C:\VISUAL 22\Movil2\Movil2\bin\Debug\netstandard2.0\Movil2.deps.json
+C:\VISUAL 22\Movil2\Movil2\bin\Debug\netstandard2.0\Movil2.dll
+C:\VISUAL 22\Movil2\Movil2\bin\Debug\netstandard2.0\ref\Movil2.dll
+C:\VISUAL 22\Movil2\Movil2\bin\Debug\netstandard2.0\Movil2.pdb
+C:\VISUAL 22\Movil2\Movil2\obj\Debug\netstandard2.0\Movil2.csproj.AssemblyReference.cache
+C:\VISUAL 22\Movil2\Movil2\obj\Debug\netstandard2.0\Movil2.GeneratedMSBuildEditorConfig.editorconfig
+C:\VISUAL 22\Movil2\Movil2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\VISUAL 22\Movil2\Movil2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\VISUAL 22\Movil2\Movil2\obj\Debug\netstandard2.0\Views\ProductView.xaml.g.cs
+C:\VISUAL 22\Movil2\Movil2\obj\Debug\netstandard2.0\Movil2.AssemblyInfoInputs.cache
+C:\VISUAL 22\Movil2\Movil2\obj\Debug\netstandard2.0\Movil2.AssemblyInfo.cs
+C:\VISUAL 22\Movil2\Movil2\obj\Debug\netstandard2.0\Movil2.csproj.CoreCompileInputs.cache
+C:\VISUAL 22\Movil2\Movil2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\VISUAL 22\Movil2\Movil2\obj\Debug\netstandard2.0\Movil2.dll
+C:\VISUAL 22\Movil2\Movil2\obj\Debug\netstandard2.0\refint\Movil2.dll
+C:\VISUAL 22\Movil2\Movil2\obj\Debug\netstandard2.0\Movil2.pdb
+C:\VISUAL 22\Movil2\Movil2\obj\Debug\netstandard2.0\Views\ListProductView.xaml.g.cs

@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VISUAL 22\\Movil2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{414FCD32-6388-498B-8316-A7A26B8B1EB3}|Movil2\\Movil2.csproj|c:\\visual 22\\movil2\\movil2\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FCD32-6388-498B-8316-A7A26B8B1EB3}|Movil2\\Movil2.csproj|solutionrelative:movil2\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FCD32-6388-498B-8316-A7A26B8B1EB3}|Movil2\\Movil2.csproj|c:\\visual 22\\movil2\\movil2\\views\\productview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{414FCD32-6388-498B-8316-A7A26B8B1EB3}|Movil2\\Movil2.csproj|solutionrelative:movil2\\views\\productview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FCD32-6388-498B-8316-A7A26B8B1EB3}|Movil2\\Movil2.csproj|c:\\visual 22\\movil2\\movil2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FCD32-6388-498B-8316-A7A26B8B1EB3}|Movil2\\Movil2.csproj|solutionrelative:movil2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FCD32-6388-498B-8316-A7A26B8B1EB3}|Movil2\\Movil2.csproj|c:\\visual 22\\movil2\\movil2\\views\\listproductview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FCD32-6388-498B-8316-A7A26B8B1EB3}|Movil2\\Movil2.csproj|solutionrelative:movil2\\views\\listproductview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FCD32-6388-498B-8316-A7A26B8B1EB3}|Movil2\\Movil2.csproj|c:\\visual 22\\movil2\\movil2\\views\\listproductview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{414FCD32-6388-498B-8316-A7A26B8B1EB3}|Movil2\\Movil2.csproj|solutionrelative:movil2\\views\\listproductview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FCD32-6388-498B-8316-A7A26B8B1EB3}|Movil2\\Movil2.csproj|c:\\visual 22\\movil2\\movil2\\viewmodels\\listproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FCD32-6388-498B-8316-A7A26B8B1EB3}|Movil2\\Movil2.csproj|solutionrelative:movil2\\viewmodels\\listproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FCD32-6388-498B-8316-A7A26B8B1EB3}|Movil2\\Movil2.csproj|c:\\visual 22\\movil2\\movil2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FCD32-6388-498B-8316-A7A26B8B1EB3}|Movil2\\Movil2.csproj|solutionrelative:movil2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414FCD32-6388-498B-8316-A7A26B8B1EB3}|Movil2\\Movil2.csproj|c:\\visual 22\\movil2\\movil2\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414FCD32-6388-498B-8316-A7A26B8B1EB3}|Movil2\\Movil2.csproj|solutionrelative:movil2\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\VISUAL 22\\Movil2\\Movil2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Movil2\\App.xaml.cs",
+              "ToolTip": "C:\\VISUAL 22\\Movil2\\Movil2\\App.xaml.cs",
+              "RelativeToolTip": "Movil2\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:54:27.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListProductView.xaml.cs",
+              "DocumentMoniker": "C:\\VISUAL 22\\Movil2\\Movil2\\Views\\ListProductView.xaml.cs",
+              "RelativeDocumentMoniker": "Movil2\\Views\\ListProductView.xaml.cs",
+              "ToolTip": "C:\\VISUAL 22\\Movil2\\Movil2\\Views\\ListProductView.xaml.cs",
+              "RelativeToolTip": "Movil2\\Views\\ListProductView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:50:05.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListProductView.xaml",
+              "DocumentMoniker": "C:\\VISUAL 22\\Movil2\\Movil2\\Views\\ListProductView.xaml",
+              "RelativeDocumentMoniker": "Movil2\\Views\\ListProductView.xaml",
+              "ToolTip": "C:\\VISUAL 22\\Movil2\\Movil2\\Views\\ListProductView.xaml",
+              "RelativeToolTip": "Movil2\\Views\\ListProductView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T19:48:38.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductView.xaml",
+              "DocumentMoniker": "C:\\VISUAL 22\\Movil2\\Movil2\\Views\\ProductView.xaml",
+              "RelativeDocumentMoniker": "Movil2\\Views\\ProductView.xaml",
+              "ToolTip": "C:\\VISUAL 22\\Movil2\\Movil2\\Views\\ProductView.xaml",
+              "RelativeToolTip": "Movil2\\Views\\ProductView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T19:33:33.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\VISUAL 22\\Movil2\\Movil2\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Movil2\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\VISUAL 22\\Movil2\\Movil2\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "Movil2\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:32:33.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListProductViewModel.cs",
+              "DocumentMoniker": "C:\\VISUAL 22\\Movil2\\Movil2\\ViewModels\\ListProductViewModel.cs",
+              "RelativeDocumentMoniker": "Movil2\\ViewModels\\ListProductViewModel.cs",
+              "ToolTip": "C:\\VISUAL 22\\Movil2\\Movil2\\ViewModels\\ListProductViewModel.cs",
+              "RelativeToolTip": "Movil2\\ViewModels\\ListProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:26:55.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\VISUAL 22\\Movil2\\Movil2\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "Movil2\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\VISUAL 22\\Movil2\\Movil2\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "Movil2\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:26:06.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\VISUAL 22\\Movil2\\Movil2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Movil2\\Models\\Product.cs",
+              "ToolTip": "C:\\VISUAL 22\\Movil2\\Movil2\\Models\\Product.cs",
+              "RelativeToolTip": "Movil2\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:25:44.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
